@@ -23,18 +23,9 @@ The program takes  numbers as input and predicts the interval in which the next 
 - Navigate to the folder where the `main.go` file is stored.
 
 ```bash
-git clone <repository-url>
-cd <Guess_it>
-```
-
- Build the program by running:
-
-```bash
-go build main.go
-```
-Alternatively, you can run it directly without building:
-```bash
-go run main.go
+git clone https://learn.zone01kisumu.ke/git/nymaina/guess-it-1
+cd Guess_IT
+cd student
 ```
 ## Usage
 This program reads input from the standard input (stdin). You can manually input numbers line by line, or you can pipe data into the program.
@@ -42,7 +33,7 @@ This program reads input from the standard input (stdin). You can manually input
 ### Running the Program
 
 ```bash
-go run ./script.sh
+./script.sh
 ```
 ## How It Works
 
